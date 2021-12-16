@@ -2,7 +2,7 @@ import Head from "next/head";
 
 export default function Home() {
   return (
-    <div className="container mx-auto mt-4">
+    <div className="container mx-auto">
       <Head>
         <title>Codepedia</title>
         <link rel="icon" href="/favicon.ico" />
